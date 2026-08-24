@@ -74,7 +74,7 @@ export default function MyApp(){
     {/* <BigButton/> */}
     <Title/>
     <p>So basically yeah, I got this to work</p>
-    <p>I'm using a new framework so it's taking long<br> </br> but yay, I have a new domain.</p>
+    <p>I'm using a new framework so it's taking long<br /> but yay, I have a new domain.</p>
     </>
   );
 }
